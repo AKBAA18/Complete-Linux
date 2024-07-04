@@ -1,2 +1,0 @@
-[Mon Apr  8 14:34:25 2024] Daemon started.
-[Mon Apr  8 14:34:25 2024] Application registered.
